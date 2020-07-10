@@ -1,3 +1,3 @@
 # Salem 👋
 
-:::image type="content" source="kitesurf.gif" alt-text="Danikarik":::
+![Danikarik](https://media0.giphy.com/media/l3Ucsu1a6wiDhkBXi/giphy.gif)
